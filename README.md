@@ -4,7 +4,7 @@
 
 A music streaming company called Sparkify collects a lot of user activity data and songs details. The songs details and the user activity data from the application are currently available and stored in the format of JSON.
 
-As Sparkify becomes more popular and increases its user baese, the data goes increasing every day from MBs to GB s and it will become even more difficult for processing and analyzing the data with the JSON files. 
+As Sparkify becomes more popular and increases its user base, the data goes increasing every day from MBs to GB s and it will become even more difficult for processing and analyzing the data with the JSON files. 
 
 Hence a cloud database is necessary to store the data efficiently so that it can be used accessed easily for creating analytic reports. This project utilizes the widely used Amazon Redshift that helps in retrieval and storage of large amounts of data. A STAR Schema has been created in the Redshift Cluster.
 
